@@ -85,7 +85,7 @@ minutes-of-meeting-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/aditya038/ai-meeting-summarizer.git
+   git clone https://github.com/SahilC999/ai-meeting-summarizer.git
    cd ai-meeting-summarizer
    ```
 
@@ -147,6 +147,5 @@ A built-in example transcript is available in a separate tab to help users under
 ---
 
 ## 🧑‍💻 Author
-
-**Aditya Chauhan**  
-GitHub: [@aditya038](https://github.com/aditya038)
+ 
+Contact : [Sahil Choutele](https://github.com/SahilC999)
